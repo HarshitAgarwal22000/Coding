@@ -27,6 +27,7 @@ int main()
                     }
                 }
                 if(o==1)
+                
                 {
                     break;
                 }
