@@ -14,4 +14,8 @@ int main()
     {
         cout<<o-y;
     }
+    else if(y==0)
+    {
+        cout<<0;
+    }
 }
